@@ -1,0 +1,49 @@
+\babel@toc {nil}{}\relax 
+\contentsline {chapter}{\numberline {1}Analisi del Dataset BCWD}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introduzione}{2}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Strumenti Utilizzati}{2}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Argomenti Trattati}{2}{subsection.1.1.2}%
+\contentsline {chapter}{\numberline {2}Esplorazione del Dataset}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Analisi Della Struttura del Dataset}{3}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Tipi di Dato}{3}{subsection.2.1.1}%
+\contentsline {section}{\numberline {2.2}Analisi della distribuzione delle variabili}{3}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}SMOTE per il Bilanciamento delle Classi}{5}{subsection.2.2.1}%
+\contentsline {subsubsection}{Distribuzione delle Features}{6}{section*.2}%
+\contentsline {section}{\numberline {2.3}Matrice di Correlazione}{7}{section.2.3}%
+\contentsline {subsubsection}{Osservazioni}{7}{section*.3}%
+\contentsline {chapter}{\numberline {3}Apprendimento Supervisionato}{9}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Cos'è l'apprendimento Supervisionato?}{9}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Suddivisione del Dataset}{9}{section.3.2}%
+\contentsline {subsubsection}{Note}{9}{section*.4}%
+\contentsline {section}{\numberline {3.3}Preparazione dei Dati}{9}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Random Forest (RF)}{10}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Descrizione del Modello}{10}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Implementazione}{10}{subsection.3.4.2}%
+\contentsline {section}{\numberline {3.5}Gradient Boosting (GB)}{10}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Descrizione del Modello}{10}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Implementazione}{10}{subsection.3.5.2}%
+\contentsline {section}{\numberline {3.6}K-Nearest Neighbors (KNN)}{11}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Descrizione del Modello}{11}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Implementazione}{11}{subsection.3.6.2}%
+\contentsline {section}{\numberline {3.7}Linear Regression (LR)}{11}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Descrizione del Modello}{11}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Implementazione}{11}{subsection.3.7.2}%
+\contentsline {section}{\numberline {3.8}Tuning degli Iperparametri}{12}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}Randomized Search}{12}{subsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.8.2}Funzionamento di RandomizedSearchCV}{12}{subsection.3.8.2}%
+\contentsline {subsection}{\numberline {3.8.3}Motivazione della Scelta}{12}{subsection.3.8.3}%
+\contentsline {chapter}{\numberline {4}Confronto tra i Modelli}{13}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Metriche di Valutazione}{13}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Risultati dei Modelli}{13}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Analisi dei Risultati}{14}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Apprendimento della Struttura del Dataset}{15}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Local Search}{15}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Hill Climbing}{15}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}perché Hill Climbing?}{15}{subsection.5.2.1}%
+\contentsline {section}{\numberline {5.3}Risultati}{16}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Analisi della Struttura Appresa}{16}{subsection.5.3.1}%
+\contentsline {subsubsection}{Limitazioni}{16}{section*.5}%
+\contentsline {section}{\numberline {5.4}Markov Blanket}{17}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Risultati con Markov Blanket}{17}{subsection.5.4.1}%
+\contentsline {chapter}{\numberline {6}Conclusioni}{18}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Lavori Futuri}{18}{section.6.1}%
